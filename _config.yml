@@ -9,6 +9,7 @@ plugins:
   - jekyll-paginate
   - jekyll-seo-tag
   - jekyll-sitemap
+  - jekyll-include-cache
 
 # social links
 github_username:  Zink-Antoine
