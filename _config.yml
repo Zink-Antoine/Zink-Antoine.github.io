@@ -47,22 +47,10 @@ github_username:  Zink-Antoine
 show_excerpts: true # set to false to remove excerpts on the homepage
 
 author:
-  name   : "First Lastname"
+  name   : "Antoine Zink"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
-  links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+  bio    : "My research focuses on luminescence dating of objects in museum collections (small sampling, unknown / low environmental information)"
+  location : Paris, FRANCE 
 
 footer:
   links:
