@@ -16,4 +16,4 @@ github_username:  Zink-Antoine
 
 show_excerpts: true # set to false to remove excerpts on the homepage
 
-remote-theme: benbalter/retlab
+remote-theme: mmistakes/minimal-mistakes@4.24.0
