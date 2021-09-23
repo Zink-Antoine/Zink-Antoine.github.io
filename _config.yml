@@ -4,19 +4,11 @@ email: antoine.zink@culture.gouv.fr
 description: > # this means to ignore newlines until "baseurl:"
   Bayesian approach and metrology of luminescence dating.
 
-# Defaults
-defaults:
-  # _posts
-  - scope:
-      path: ""
-      type: posts
-    values:
-      layout: single
-      author_profile: true
-      read_time: true
-      comments: true
-      share: true
-      related: true
+plugins:
+  - jekyll-feed
+  - jekyll-paginate
+  - jekyll-seo-tag
+  - jekyll-sitemap
 
 # social links
 github_username:  Zink-Antoine
