@@ -23,4 +23,4 @@ github_username:  Zink-Antoine
 
 show_excerpts: true # set to false to remove excerpts on the homepage
 
-theme: jekyll-theme-cayman
+theme: jekyll-theme-minimal
