@@ -1,5 +1,10 @@
 title: Luminescence dating for objects from collection
-author: Antoine J.C. Zink
+
+author:
+  name   : "Antoine J.C. Zink"
+  avatar : "/assets/images/bio-photo.jpg"
+  bio    : "My research focuses on luminescence dating of objects in museum collections (small sampling, unknown / low environmental information)"
+  location : Paris, FRANCE 
 email: antoine.zink@culture.gouv.fr
 description: > # this means to ignore newlines until "baseurl:"
   Bayesian approach and metrology of luminescence dating.
