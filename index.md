@@ -1,6 +1,5 @@
-____
-title
-____
-Welcome to my blog
+---
+title: "Luminescence dating of collection objects"
+---
+My research program deals with luminescence dating of artworks in collections.
 
-I'm glad you are here. I plan to talk about Bayesian approach in luminescence dating.
