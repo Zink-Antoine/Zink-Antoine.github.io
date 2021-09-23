@@ -5,4 +5,4 @@ My research program deals with luminescence dating of artworks in collections.
 
 [click here](/about/)
 
-[News](/_post/)
+[News](/_posts/)
